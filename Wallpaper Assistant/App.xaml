@@ -5,7 +5,11 @@
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
-                
+                <ResourceDictionary Source="./Style/Colors.xaml"/>
+
+                <ResourceDictionary Source="./Style/Header Caption.xaml"/>
+                <ResourceDictionary Source="./Style/Header Button.xaml"/>
+                <ResourceDictionary Source="./Style/Footer Button.xaml"/>
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
     </Application.Resources>
