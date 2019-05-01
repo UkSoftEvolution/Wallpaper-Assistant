@@ -8,11 +8,11 @@ using System.Windows;
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
 [assembly: AssemblyTitle("Wallpaper Assistant")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Программа для работы с обоями рабочего стола")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Uk. Soft-Evolution")]
 [assembly: AssemblyProduct("Wallpaper Assistant")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © Uk. Soft-Evolution 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
